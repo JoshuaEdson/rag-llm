@@ -25,3 +25,18 @@ _temp/
 **/*Resume*.pdf
 *resume*.pdf
 *Resume*.pdf
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Mac stuff
+.DS_Store
+
+# Model/data
+models/
+_temp/
